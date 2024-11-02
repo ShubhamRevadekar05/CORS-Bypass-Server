@@ -1,0 +1,15 @@
+{
+    "name": "cors-bypass-server",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts": {
+        "start": "node --env-file=.env .",
+        "test": "nodemon --env-file=.env ."
+    },
+    "author": "",
+    "license": "MIT",
+    "description": "",
+    "devDependencies": {
+        "nodemon": "^3.1.7"
+    }
+}
